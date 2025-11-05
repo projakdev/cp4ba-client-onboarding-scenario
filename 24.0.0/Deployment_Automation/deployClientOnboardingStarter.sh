@@ -21,9 +21,9 @@
 # Either 'pakInstallerPortalURL' or 'ocLoginServer' and 'ocLoginToken' need to be specified but not both depending on how environment is installed
 
 # Value of the 'server' parameter as shown on the 'Copy login command' page in the OCP web console
-ocLoginServer=REQUIRED
+ocLoginServer=https://api.6908b74e5e854ca603df5954.ap1.techzone.ibm.com:6443
 # Value shown under 'Your API token is' or as 'token' parameter as shown on the 'Copy login command' page in the OCP web console
-ocLoginToken=REQUIRED
+ocLoginToken=sha256~5vjT_6ikjLXluuP7bGdL3wfOxbJ1h3JChGKD42LzS_w
 
 # URL of the PAK INSTALLER PORTAL directly from the 'Your environment is ready' email 'PakInstaller Portal URL:' when deployed from TechZone via Pak Installer
 # pakInstallerPortalURL=REQUIRED
